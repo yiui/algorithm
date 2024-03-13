@@ -1,0 +1,8 @@
+.vscode
+vendor/**/
+logs
+local
+dist
+main
+.idea
+go.sum
